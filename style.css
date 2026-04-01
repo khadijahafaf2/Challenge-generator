@@ -1,6 +1,9 @@
-body{
-  padding: 25px;
+img {
+  width: 200px;
 }
-.title {
-	color: #E8AA9E;
+body {
+  text-align: center;
+  font-family:  'Airal';
+  background: azure
+  color: purple
 }
