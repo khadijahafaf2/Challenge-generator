@@ -3,7 +3,6 @@ img {
 }
 body {
   text-align: center;
-  font-family:  'Airal';
-  background: azure
-  color: purple
+  font-family: Arial, sans-serif;
+  background: rgb(250, 227, 194);
 }
